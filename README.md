@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvigneshnayak
 - 👀 I’m interested in C and C++
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DLMS and IEC61850
 
 <!---
